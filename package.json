@@ -8,5 +8,14 @@
   "devDependencies": {
     "sass": "^1.32.11",
     "vite": "^2.4.0"
-  }
+  },
+  "name": "swm",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saosinx"
+  },
+  "author": "Nikita Zhurawski <zhurawski.nikita@gmail.com>",
+  "license": "ISC",
+  "description": ""
 }
